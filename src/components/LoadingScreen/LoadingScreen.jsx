@@ -1,3 +1,4 @@
+import React from 'react';
 import styles from './LoadingScreen.module.css';
 import { Oval } from 'react-loader-spinner';
 

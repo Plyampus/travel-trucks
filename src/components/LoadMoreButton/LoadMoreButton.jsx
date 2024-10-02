@@ -1,3 +1,4 @@
+import React from "react";
 import { useDispatch } from "react-redux";
 import { setIncrementPage } from "../../redux/catalogSlice";
 import styles from "./LoadMoreButton.module.css";

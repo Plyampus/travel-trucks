@@ -1,3 +1,4 @@
+import React from "react";
 import PropTypes from 'prop-types';
 import { fixLocationOrdering } from '../../helpers';
 import styles from './ProductSubHeading.module.css';

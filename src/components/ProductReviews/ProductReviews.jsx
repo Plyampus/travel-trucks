@@ -1,3 +1,4 @@
+import React from "react";
 import PropTypes from 'prop-types';
 import Rating from '../Rating/Rating';
 import styles from './ProductReviews.module.css';

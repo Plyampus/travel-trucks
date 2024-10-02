@@ -1,3 +1,4 @@
+import React from "react";
 import PropTypes from "prop-types";
 import Features from "../Features/Features";
 import styles from "./ProductDetails.module.css";

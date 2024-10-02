@@ -1,3 +1,4 @@
+import React from "react";
 import PropTypes from "prop-types"; 
 import Image from "../Image/Image";
 import styles from "./ImageGallery.module.css";

@@ -1,3 +1,4 @@
+import React from "react";
 import { useId } from "react";
 import styles from "./CatalogFilter.module.css";
 import { useSearchParams } from "react-router-dom";
