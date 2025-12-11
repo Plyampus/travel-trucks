@@ -1,6 +1,6 @@
 # 🚐 Travel Trucks - Camper Rental Application
 
-![Project Preview](src/images/preview.png)
+![Project Preview](https://github.com/Plyampus/travel-trucks/blob/main/src/assets/images/preview.png?raw=true)
 
 ### 🔴 [Live Demo](https://travel-trucks-sigma-one.vercel.app)
 
